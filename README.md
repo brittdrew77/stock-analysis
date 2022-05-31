@@ -2,7 +2,7 @@
 ## 1. Overview of Project
 The purpose of this project is to refactor code, so it will be more efficient. Steve wants to expand the dataset to include the entire stock market for 2017 and 2018. We want the code to work faster and more efficiently for a larger dataset. 
 ## 2. Results
-I found that for the year 2017 the code ran in 0.164 seconds and for the year 2018 the code ran in 0.160 seconds. Both times are very close for the two years. Before refactoring the code, it ran slightly slower. 
+I found that for the year 2017 the code ran in 0.164 seconds and for the year 2018 the code ran in 0.160 seconds. Both times are very close for the two years. Before refactoring the code, it ran slightly slower. <img width="1280" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/105089651/171296259-1b8dc994-8646-4bdb-8a01-5f56906eb9c2.png"> 
   
 ## 3. Summary
 ### 1. What are the advantages or disadvantages of refactoring code?
